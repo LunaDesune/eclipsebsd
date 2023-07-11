@@ -23,7 +23,7 @@
 ### Frameworks I'm studying
 
 <div style="display: inline-block">
-  <a href="https://developer.android.com/?hl=pt-br"><img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a>
+  <a href="https://developer.android.com/?hl=pt-br" target="_blank"><img style="width: 60px; height: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></a>
 </div>
 
 
